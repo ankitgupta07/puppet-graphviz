@@ -30,6 +30,7 @@ Limitations
 ------------
 
 Platforms : Linux
+
 Language : Java
 
 Though this module installs graphviz for Java programs only, the repository already contains graphviz binaries for different programming languages like ruby etc. The required packages can be added to the module.
